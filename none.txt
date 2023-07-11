@@ -1,0 +1,8 @@
+pointplots...
+	sns.distplot()
+	sns.kdeplot()
+	sns.rugplot()
+
+distribution plots...
+	sns.residplot(
+	
